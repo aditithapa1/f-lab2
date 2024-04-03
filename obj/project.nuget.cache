@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eaFp1WR9qW3yXNueOSHO4lxyvrNP2KFb9vnbCvHMWX88LwDRVNzt57XAxQ+t6ZucRSMxZITQXU69A3KUAu/pzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aditi\\OneDrive\\Documents\\lab2f#\\Mylab2\\Mylab2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aditi\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
